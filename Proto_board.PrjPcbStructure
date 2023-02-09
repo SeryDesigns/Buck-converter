@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Battery charger.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Battery charger.SchDoc|FileName=Buck converter.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Battery charger.SchDoc|FileName=DC_power.SchDoc|SheetNumber=1
