@@ -19,3 +19,5 @@ Top view - \
 Bottom view -  \
 ![image](https://raw.githubusercontent.com/SeryDesigns/Buck-converter/main/docs/BOTTOM.png)
 
+I've created a short time lapse video of the design process, you can click the link below to check it out on my YouTube channel \
+[![Buck converter PCB design in 5 minutes (time lapse)](https://img.youtube.com/vi/Ut0V4XA0QD4/hqdefault.jpg)](https://youtu.be/Ut0V4XA0QD4)
